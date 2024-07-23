@@ -27,9 +27,7 @@ public class Animal {
     public void setIdade (int idade){
         this.idade=idade;
     }
-    public int getQtdPatas(){
-        return qtdPatas;
-    }
+
 
     public void setQtdPatas(int qtdPatas){
         this.qtdPatas=qtdPatas;
